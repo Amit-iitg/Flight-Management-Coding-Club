@@ -44,3 +44,13 @@ cd server
 ```bash
 node app.js
 ```
+##NOTE
+Please the given data due to unavailibity of free API we create our own database in which we added a few information . Some of them are given below.
+origin:"Los Angeles"
+destination:"New York",
+origin:"New York"
+destination:"San Francisco",
+origin:"Chicago"
+destination:"Miami",
+origin:"Denver"
+destination:"Seattle".
