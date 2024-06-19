@@ -45,7 +45,7 @@ cd server
 node app.js
 ```
 ## NOTE
-### Please the given data due to unavailibity of free API we create our own database in which we added a few information . Some of them are given below.
+### Please search the given data due to unavailibity of free API we create our own database in which we added a few information . Some of them are given below.
 origin:"Los Angeles"
 destination:"New York",
 origin:"New York"
