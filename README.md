@@ -46,11 +46,78 @@ node app.js
 ```
 ## NOTE
 ### Please search the given data due to unavailibity of free API we create our own database in which we added a few information . Some of them are given below.
-origin:"Los Angeles"
-destination:"New York",
-origin:"New York"
-destination:"San Francisco",
-origin:"Chicago"
-destination:"Miami",
-origin:"Denver"
-destination:"Seattle".
+origin: "New York"
+destination: "Los Angeles"
+
+origin: "London"
+destination: "New York"
+
+origin: "San Francisco"
+destination: "Chicago"
+
+origin: "Los Angeles"
+destination: "Seattle"
+
+origin: "Chicago"
+destination: "Dallas"
+
+origin: "Atlanta"
+destination: "Denver"
+
+origin: "Boston"
+destination: "Fort Lauderdale"
+
+origin: "Dubai"
+destination: "New York"
+
+origin: "Frankfurt"
+destination: "Chicago"
+
+origin: "Singapore"
+destination: "Los Angeles"
+
+origin: "Doha"
+destination: "Atlanta"
+
+origin: "Toronto"
+destination: "Vancouver"
+
+origin: "Sydney"
+destination: "Los Angeles"
+
+origin: "Istanbul"
+destination: "New York"
+
+origin: "Tokyo"
+destination: "San Francisco"
+
+origin: "Amsterdam"
+destination: "Atlanta"
+
+origin: "Paris"
+destination: "Los Angeles"
+
+origin: "Johannesburg"
+destination: "New York"
+
+origin: "London"
+destination: "Los Angeles"
+
+origin: "Mexico City"
+destination: "Los Angeles"
+
+origin: "Zurich"
+destination: "New York"
+
+origin: "Madrid"
+destination: "Miami"
+
+origin: "Hong Kong"
+destination: "San Francisco"
+
+origin: "Santiago"
+destination: "Los Angeles"
+
+origin: "Abu Dhabi"
+destination: "New York"
+
