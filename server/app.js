@@ -30,6 +30,7 @@ app.use(cors())
 
 
 
+
 const dburl=process.env.ATLAS_URL
 
 const connectdb=async()=>{
@@ -37,7 +38,7 @@ const connectdb=async()=>{
     try{
 
         const conn=await mongoose.connect(dburl)
-
+        // Flight.insertMany(dummyFlights);
         console.log("connected to db")
 
         
